@@ -3,7 +3,7 @@
 
 - 🔭 English teacher em mudança na área profisonal
 - 🌱 Atualmente estudando Front-end
-- 📫 Me contate e conheça-me em: https://gustavo-portf.netlify.app
+- 📫 Me contate e conheça-me em: https://portf-g.netlify.app
 
 <div align="center">
   <a href="https://gustavo-portf.netlify.app">
